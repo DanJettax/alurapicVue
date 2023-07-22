@@ -54,6 +54,7 @@ export default {
 </script>
 
 <style>
+
     .botao {
         display: inline-block;
         padding: 10px;
